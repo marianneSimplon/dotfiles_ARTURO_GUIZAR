@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = marianne.depierre.simplon@gmail.com
+	name = marianne depierre
